@@ -1,0 +1,26 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: linear-gradient(to bottom, #74ebd5, #ACB6E5);
+}
+
+.city-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.temp-label {
+    -fx-font-size: 18px;
+}
+
+.day-label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.fetch-btn {
+    -fx-background-color: #4facfe;
+    -fx-text-fill: white;
+    -fx-padding: 8 16;
+    -fx-background-radius: 20;
+    -fx-font-size: 14px;
+}
