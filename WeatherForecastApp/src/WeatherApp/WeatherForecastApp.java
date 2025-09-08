@@ -19,7 +19,7 @@ import java.net.URL;
 
 public class WeatherForecastApp extends Application {
 
-    private static final String API_KEY = "38ed4208b56e54ab2070a3bc80c91999"; // Replace with your OpenWeatherMap API key
+    private static final String API_KEY = "Your Api key here"; // Replace with your OpenWeatherMap API key
 
     // Current weather UI elements
     private VBox weatherCard;
